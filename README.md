@@ -63,6 +63,7 @@ Through the above diagram we realise the process which is going on
 4. Through system call the programmer can access parts (registers of RISC-V architecture) of OS. And this interface is called as Application Binary Interface (System Call           Interface) because if an application programmer wants to access hardware resources of processors then it has to do via registers only.
 
 ## **TO WRITE C PROGRAM OF COMPUTING SUM OF NUMBERS 1 TO 9 USING ASM LANGUAGE**
+
 1.	**ALGORTITHM**
 ![Alt Text](https://github.com/RISCV-MYTH-WORKSHOP/riscv_myth_workshop_mar21-chimatashriya/blob/master/Day2/ALGORITHM.png)
 
