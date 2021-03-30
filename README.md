@@ -40,6 +40,7 @@ RISC-V is a free and open ISA. We define ISA a way in which we can talk to the c
     * DIAGRAM RESULT
     
 4.COMPLETING THE RISC-V CPU
+
     * FINAL CODE
     * FINAL VISUALIZATION AT 53 CYCLES
     * FINAL VISUALIZATION AT 56 CYCLES
