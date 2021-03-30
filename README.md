@@ -65,6 +65,7 @@ Through the above diagram we realise the process which is going on
 ## **TO WRITE C PROGRAM OF COMPUTING SUM OF NUMBERS 1 TO 9 USING ASM LANGUAGE**
 
 1.	**ALGORTITHM**
+
 ![Alt Text](https://github.com/RISCV-MYTH-WORKSHOP/riscv_myth_workshop_mar21-chimatashriya/blob/master/Day2/ALGORITHM.png)
 
 **STEP 1**: Opening a leafpad 
