@@ -73,7 +73,7 @@ Validity is a notion of when values or signals are meaningful. It provides easie
 ## 15.TOTAL DISTANCE USING VALIDITY
 ![Alt Text](https://github.com/RISCV-MYTH-WORKSHOP/riscv_myth_workshop_mar21-chimatashriya/blob/master/Day3_5/Day3/Images/DAY%203%20ORIGINAL/TOTAL%20DISTANCE.PNG)
 
-## ** 16.CYCLE CALCULATOR WITH VALIDITY**
+## 16.CYCLE CALCULATOR WITH VALIDITY
 
 Using $valid_or_reset = $valid || $reset; as a  when condition for calculation instead of zeroing $out
 
