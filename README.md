@@ -8,19 +8,43 @@ RISC-V is a free and open ISA. We define ISA a way in which we can talk to the c
 
 # TABLE OF CONTENTS
 
-1. Introduction to ABI
-2.Combinational Logic
-3.Sequential Logic
-4.Counter and Calculator in Pipeline
-5.2-Cycle Calculator - Validity
-6. RISC-V CPU micro-architecture
-7.Fetch
-8. Decode
-9.Register File Read and Write
-10.ALU
-11.Completing the RISC-V CPU
-12.Conclusion
-13.Acknowledgements
+1. INTRODUCTION TO ABI
+2. DIGITAL LOGIC WITH TL VERILOG AND MAKERCHIP IDE
+    A.AND GATE
+    B.OR GATE
+    C.XOR GATE
+    D.VECTOR OF 5 BITS
+    E.MUX
+    F.7:0 MUX
+    G.COMBINATIONAL CALCULATOR
+    F.COUNTER
+    H.FIBONACCI SERIES
+    I.SEQUENTIAL CALCULATOR
+    J.PYTHAGORAS THEOREM
+    K.FIBONACCI IN PIPELINE
+    L.CYCLE CALCULATOR
+    M.VALID PYTHAGORAS
+    N.TOTAL DISTANCE USING VALIDITY
+    O. CYCLE CALCULATOR WITH VALIDITY
+3. RISC-V CPU MICRO ARCHITECTURE
+    A.FETCH
+    B.DECODE
+    C.REGISTER FILE READ
+    D.ALU
+    E.REGISTER FILE WRITE
+    F.BRANCHES
+    G.TESTBENCH
+    H.VISUALIZATION RESULT
+    F.DIAGRAM RESULT
+4.COMPLETING THE RISC-V CPU
+    A.FINAL CODE
+    B.FINAL VISUALIZATION AT 53 CYCLES
+    C.FINAL VISUALIZATION AT 56 CYCLES
+    D.FINAL DIAGRAM
+    E.FINAL WAVEFORM
+5.DIRECT LINKS TO FOLDERS IN REPOSITORIES FOR MORE PROGRAMS
+6.CONCLUSION
+7.ACKNOWLEDGEMENTS
 
 # **APPLICATION BINARY INTERFACE**
 For users when talking about interface in terms of any application, what matters is the appearance and functionality. Any application programmer has to write multiple layers of programme for an application to run on hardware. 
@@ -282,3 +306,11 @@ We have added conditional statements like jump,updated the instructions,ALU and 
 # CONCLUSION
 
 This project was done as a part of the RISC-V based MYTH workshop conducted by Kunal Ghosh and Steve Hoover. The current project implements almost the entire RV32I base instruction set.  We used TL-Verilog - a relatively new language whih significantly reduces the time spent on writing long codes and gives efficient results. We also used Makerchip a platform by Redwood IDE that helps in real time simulation of our core
+
+# ACKNOWLEDGEMENTS
+
+Kunal Ghosh 
+Steve Hoover
+Shivani Shah
+Shivam Potdar
+Vineet Jain
