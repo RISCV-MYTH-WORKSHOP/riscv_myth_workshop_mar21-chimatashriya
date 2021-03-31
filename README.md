@@ -306,11 +306,15 @@ We have added conditional statements like jump,updated the instructions,ALU and 
 
 # DIRECT LINKS TO FOLDERS IN REPOSITORIES FOR MORE PROGRAMS
 
-[GitHub](https://github.com/RISCV-MYTH-WORKSHOP/riscv_myth_workshop_mar21-chimatashriya/tree/master/Day2)
-[GitHub](https://github.com/RISCV-MYTH-WORKSHOP/riscv_myth_workshop_mar21-chimatashriya/tree/master/Day3_5/Day3)
-[GitHub](https://github.com/RISCV-MYTH-WORKSHOP/riscv_myth_workshop_mar21-chimatashriya/tree/master/Day3_5/Day%204)
-[GitHub](https://github.com/RISCV-MYTH-WORKSHOP/riscv_myth_workshop_mar21-chimatashriya/tree/master/Day3_5/Day%20%205)
-[GitHub](https://myth3.makerchip.com/sandbox/0mZf5hOG/0xGhJX)
+1. DAY 2-[GitHub](https://github.com/RISCV-MYTH-WORKSHOP/riscv_myth_workshop_mar21-chimatashriya/tree/master/Day2). 
+
+2. DAY 3-[GitHub](https://github.com/RISCV-MYTH-WORKSHOP/riscv_myth_workshop_mar21-chimatashriya/tree/master/Day3_5/Day3)
+
+3. DAY 4-[GitHub](https://github.com/RISCV-MYTH-WORKSHOP/riscv_myth_workshop_mar21-chimatashriya/tree/master/Day3_5/Day%204)
+
+4. DAY 5-[GitHub](https://github.com/RISCV-MYTH-WORKSHOP/riscv_myth_workshop_mar21-chimatashriya/tree/master/Day3_5/Day%20%205)
+
+5. CPU CORE IN MAKERCHIP IDE-[GitHub](https://myth3.makerchip.com/sandbox/0mZf5hOG/0xGhJX)
 # CONCLUSION
 
 This project was done as a part of the RISC-V based MYTH workshop conducted by VSD and REDWOOD EDA. The current project implements almost the entire RV32I base instruction set.  We used TL-Verilog - a relatively new language whih significantly reduces the time spent on writing long codes and gives efficient results. We also used Makerchip a platform by Redwood IDE that helps in real time simulation of our core
